@@ -1,4 +1,6 @@
-#!/usr/bin/env python - George Fitzmaurice port scanner
+#!/usr/bin/env python
+#
+# George Fitzmaurice port scanner
 #
 # This python program will scan ports 1-1025 and report if they are open or closed.  Output is shown on the screen
 # and also in the output file named GeorgeFitz_outfile.txt.  The output file is overwritten on each subsequent run.
